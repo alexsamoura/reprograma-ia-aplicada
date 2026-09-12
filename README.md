@@ -5,7 +5,7 @@
 
 Este repositório é dedicado à documentação de aprendizados, engenharia de prompt, testes e aplicação prática de Inteligência Artificial no processo de Product Design e UI/UX durante o curso da **{reprograma}**.
 
-# 🤖 Estudos de IA Aplicada
+# Estudos de IA Aplicada
 
 ---
 
