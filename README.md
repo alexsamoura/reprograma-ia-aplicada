@@ -1,5 +1,7 @@
 # Todas-em-Tech-Futuro+
-<img width="750" height="423" alt="image" src="https://github.com/user-attachments/assets/5fa190de-bf73-4325-b5bb-f69520bad73c" />
+
+<img width="469" height="212" alt="image" src="https://github.com/user-attachments/assets/aeac0108-e4c3-4956-9ad7-3a9f4894b06b" />
+
 
 Este repositório é dedicado à documentação de aprendizados, engenharia de prompt, testes e aplicação prática de Inteligência Artificial no processo de Product Design e UI/UX durante o curso da **{reprograma}**.
 
