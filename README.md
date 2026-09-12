@@ -32,4 +32,4 @@ Este repositório é dedicado à documentação de aprendizados, engenharia de p
 ---
 
 ## ✍️ Autora
-Desenvolvido por **[Seu Nome]** — em transição para Product Design / UI/UX.
+Desenvolvido por **[Alexsandra Moura]** — em transição para Product Design / UI/UX.
